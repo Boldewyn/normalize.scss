@@ -26,6 +26,6 @@ can use them directly, if you like:
 
 ### License
 
-Public domain. The first line of normalize.scss includes an CSS comment
-attributing the original nromalize.css authors. I suggest to keep that in your
+Public domain. The first line of the normalize mixin includes a CSS comment
+attributing the original normalize.css authors. I suggest to keep it in your
 project.
